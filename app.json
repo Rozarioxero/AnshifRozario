@@ -1,9 +1,9 @@
 {
   "name": "prince-ds",
   "description": "PRINCE MD WHATSAPP USER BOT",
-  "repository": "https://github.com/PRINCE-GDS/prince-ds",
+  "repository": "https://github.com/AnshifRozario/prince-ds",
 "logo": "https://i.imgur.com/0GodFgO.jpeg",
-"success_url": "https://github.com/PRINCE-GDS/prince-ds",
+"success_url": "https://github.com/AnshifRozario/prince-ds",
 "keywords": [
 "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
 "termux", "superbot", "multi-device", "md", "official", "javascript", "princebot"],
@@ -63,7 +63,7 @@
     "PACK_NAME": {
       "description": "Put your stickers pack name",
       "required": false,
-      "value": "Princebot🎗️❣️"
+      "value": " ᴀɴsʜɪғ xᴇʀ🎗️❣️"
       },
     "DATABASE_URL": {
       "description": "Put your MongoDB here",
@@ -98,7 +98,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~Y4AEAbqB#5y9lBkoAFmDMHFT3tLNxHRPmR3Vn7n0kdunwEJ8frSM"
     }
     
    
